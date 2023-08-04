@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Minecraft;
+    font-display: swap;
+    src: url('MinecraftRegular-Bmg3.otf') format('truetype');
+}
+
+.text {
+    font-family: Minecraft, sans-serif;
+}
