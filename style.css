@@ -21,3 +21,7 @@
     display: block;
     margin:auto;
 }
+.download-button:hover {
+    background-color: darkgray;
+    color: white;
+}
